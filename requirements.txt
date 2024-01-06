@@ -51,7 +51,7 @@ psycopg==3.1.4
 psycopg2-binary==2.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
-pycryptodome==3.15.0
+pycryptodome==3.19.1
 Pygments==2.13.0
 pyrsistent==0.19.2
 python-dotenv==0.21.0
