@@ -80,3 +80,4 @@ websockets==9.1
 yarl==1.8.1
 
 colorama~=0.4.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
